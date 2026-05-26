@@ -1,2 +1,2 @@
 config SHIELD_NUMPAD
-    def_bool y
+    bool "Numpad Shield"

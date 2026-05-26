@@ -1,0 +1,3 @@
+if(CONFIG_ZMK_KEYBOARD_NUMPAD)
+  target_sources(app PRIVATE)
+endif()
